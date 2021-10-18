@@ -569,7 +569,6 @@ section {
   align-content: center;
 }
 .clients img {
-  margin-left: 600px;
   max-width: 45%;
   transition: all 0.4s ease-in-out;
   display: inline-block;
