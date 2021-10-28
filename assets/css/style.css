@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #e24d55;
+  color: #0D381E;
   text-decoration: none;
 }
 
@@ -125,10 +125,10 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 5px;
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #d9232d;
+  color: #0D381E;
 }
 .navbar .getstarted, .navbar .getstarted:focus {
-  background: #d9232d;
+  background: #D78928;
   padding: 8px 25px;
   margin-left: 30px;
   border-radius: 4px;
@@ -137,7 +137,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .navbar .getstarted:hover, .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #e1444d;
+  background: #D78928;
 }
 .navbar .dropdown ul {
   display: block;
@@ -166,7 +166,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 12px;
 }
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-  color: #d9232d;
+  color: #0D381E;
 }
 .navbar .dropdown:hover > ul {
   opacity: 1;
@@ -251,7 +251,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #556270;
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #d9232d;
+  color: #0D381E;
 }
 .navbar-mobile .getstarted, .navbar-mobile .getstarted:focus {
   margin: 15px;
@@ -277,7 +277,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 12px;
 }
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #d9232d;
+  color: #D78928;
 }
 .navbar-mobile .dropdown > .dropdown-active {
   display: block;
@@ -389,7 +389,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #hero .carousel-indicators li.active {
   opacity: 1;
-  background: #d9232d;
+  background: #D78928;
 }
 #hero .btn-get-started {
   font-family: "Raleway", sans-serif;
@@ -531,7 +531,7 @@ section {
 --------------------------------------------------------------*/
 .about .content h2 {
   font-weight: 700;
-  font-size: 48px;
+  font-size: 30px;
   line-height: 60px;
   margin-bottom: 20px;
   text-transform: uppercase;
@@ -554,7 +554,7 @@ section {
   top: 7px;
   position: absolute;
   font-size: 20px;
-  color: #d9232d;
+  color: #D78928;
 }
 .about .content p:last-child {
   margin-bottom: 0;
@@ -602,7 +602,7 @@ section {
 }
 .services .icon-box i {
   float: left;
-  color: #d9232d;
+  color: #D78928;
   font-size: 40px;
 }
 .services .icon-box h4 {
@@ -633,10 +633,10 @@ section {
   top: 7px;
   position: absolute;
   font-size: 20px;
-  color: #d9232d;
+  color: #D78928;
 }
 .services .icon-box:hover h4 a {
-  color: #d9232d;
+  color: #D78928;
 }
 
 /*--------------------------------------------------------------
@@ -1728,7 +1728,7 @@ section {
   transition: 0.3s;
 }
 #footer .footer-top .social-links a:hover {
-  background: #d9232d;
+  background: #D78928;
   color: #fff;
   text-decoration: none;
 }
@@ -1791,7 +1791,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px 2px 20px;
-  background: #d9232d;
+  background: #D78928;
   color: #fff;
   transition: 0.3s;
   border-radius: 0 4px 4px 0;
